@@ -1,14 +1,4 @@
-[python] 
 
-It seems you've uploaded a file named `Untitled20-4.ipynb`. I'll first review the contents of the file to understand the context and details of the project, which will help me write a more accurate README file. Let me open and inspect the notebook.
-
-[python]
-
-The notebook appears to contain code related to processing hospital transcripts. It includes sections for installing dependencies, fetching data (transcripts), and further steps that seem to involve text processing and analysis. Based on the cells I reviewed, I can provide a general outline for the README file, detailing the purpose of the project, the steps involved, and how to set up and run the project.
-
-Here's a draft of the README file:
-
----
 
 # Hospital Transcripts Processing Project
 
